@@ -10,7 +10,7 @@ Functions:
 
 4. Check NFTs (Shows all the NFTs in your wallet)
 
-5. Send ETH (Send ethereum in RINKEBY testnet to another address)
+5. Send ETH (Send ethereum in RINKEBY's testnet to another address)
 
 ## This dashboard works in RINKEBY's testnet.
 
